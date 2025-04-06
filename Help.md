@@ -34,7 +34,7 @@ Prompts for AI to help with GIT (Apple MAc has git installed by default) and Git
 Prompt: I want to use git for this project. Can you help me with that?
 Now the project has possibilities to have version control via git.
 
-Prompt: I want to use github. Can you help me with that?
+
+Prompt: I want a remote connection to github. Please help how to to this project. I want to connect it to a new repository named "template-1"
+
 Now your project is on GitHub, so you have a backup of your project even when your PC fails.
-
-
