@@ -47,4 +47,6 @@ How to create a branche in git? The main is the production, you can make a test 
 Prompt to make a test branche: make a branche in git named "test"
 Prompt to make a test branche: make a branche in git named "Development"
 
-Prompt to activate a branche: activate branche "Development"
+Prompt to activate a branche "main": activate branche "main"
+Prompt to activate a branche "Test": activate branche "Test"
+Prompt to activate a branche "Development": activate branche "Development"
