@@ -45,3 +45,6 @@ Save all files and commit this to git with comment "help.md updated"
 
 How to create a branche in git? The main is the production, you can make a test branche and a development branch:
 Prompt to make a test branche: make a branche in git named "test"
+Prompt to make a test branche: make a branche in git named "Development"
+
+Prompt to activate a branche: activate branche "Development"
