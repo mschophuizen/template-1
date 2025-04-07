@@ -43,3 +43,5 @@ Now your project is on GitHub, so you have a backup of your project even when yo
 After a change in your code, you can save this in git, and it will also be saved on GiThub with the mnext prompt (you can choose to fill in "comment" to whatever you like):
 Save all files and commit this to git with comment "help.md updated"
 
+How to create a branche in git? The main is the production, you can make a test branche and a development branch:
+Prompt to make a test branche: make a branche in git named "test"
